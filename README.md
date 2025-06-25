@@ -9,7 +9,7 @@ To start this project, you need to add execution permission to the file. For thi
 chmod +x <path-to-UpgraderGitea.sh>
 ```
 
-After that, you need to add it to the cron task scheduler for scheduled execution:
+After that, you need to add it to the `cron` task scheduler for scheduled execution:
 ```
 crontab -e
 ```
