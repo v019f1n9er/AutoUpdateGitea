@@ -2,7 +2,7 @@
 
 # +----------------------------------------------------------------------------------------+
 # | This script is written in Bash and is designed to check for a new version of Gitea and |
-# | automatically upgrade the program if a new version is found.                            |
+# | automatically upgrade the program if a new version is found.                           |
 # +----------------------------------------------------------------------------------------+
 
 VERSION_FILE="version.txt"
